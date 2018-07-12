@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hanyu</string>
+    <string name="MainEnterinfo">公司簡介</string>
+    <string name="MainMachineStaus">機台狀態</string>
 </resources>
